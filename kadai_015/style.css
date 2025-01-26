@@ -11,7 +11,9 @@ html {
   color: rgb(255, 192, 203);
 }
 .blue, .pink,  #basic {
-  font-family: ;<link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+  font-family: sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: 3px rgb(115, 115, 114); 
 }
