@@ -10,7 +10,7 @@ html {
 .pink {
   color: rgb(255, 192, 203);
 }
-.blue, .pink,  #basic {
+#basic {
   font-family: sans-serif;
   font-size: 2rem;
   letter-spacing: 1.2em;
