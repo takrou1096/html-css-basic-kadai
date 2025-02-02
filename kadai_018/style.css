@@ -13,7 +13,7 @@
 #middle {
   width: 800px;
   height: 800px;
-  margin: 20pt 0px 20px 0px;
+  margin: 20pt auto;
   background-color: #ffd9df;
   text-align: center;
 }
