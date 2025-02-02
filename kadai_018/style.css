@@ -24,3 +24,17 @@
   background-color: #87ceed;
 }
 
+#middle-child01 {
+  top: 100px;
+  left: 100px;
+}
+#middle-child02 {
+  top: 300px;
+  left: 300px;
+}
+#middle-child03 {
+  top: 500px;
+  left: 500px;
+}
+
+
