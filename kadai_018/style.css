@@ -44,8 +44,7 @@
   width: 400px;
   height: 300px;
   background-color: #87ceed;
-  text-align: center;
-  position: relative;
+  margin: 0 auto;
 }
 #bottom-child01,#bottom-child02,#bottom-child03 {
   width: 400px;
