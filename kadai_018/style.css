@@ -44,7 +44,7 @@
   width: 800px;
   height: 300px;
   background-color: #87ceed;
-  margin: 20px auto;
+  margin: 0 auto;
   position: relative;
 }
 #bottom-child01,#bottom-child02,#bottom-child03 {
