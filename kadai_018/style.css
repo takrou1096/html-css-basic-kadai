@@ -53,11 +53,11 @@
   background-color: #e5dcf0;
 }
 #bottom-child02 {
-  position:  relative;
+  position:  absolute;
   left: 200px;
 }
 #bottom-chiled03 {
-  position: relative;
+  position: absolute;
   left: 400px;
 }
 
