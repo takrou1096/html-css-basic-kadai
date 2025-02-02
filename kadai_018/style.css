@@ -53,13 +53,12 @@
   background-color: #e5dcf0;
   position: absolute;
 }
-#bottom-chiled01 {
-  left: 0px;
-}
 #bottom-child02 {
+   top: 100px;
   left: 200px;
 }
 #bottom-chiled03 {
+  top: 200px;
   left: 400px;
 }
 
