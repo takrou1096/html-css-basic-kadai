@@ -8,7 +8,7 @@
 .topchild {
   width: 20%;
   background-color: #ffd9df;
-  display: inline-block;
+  display: flex;
 }
 
 #middle {
