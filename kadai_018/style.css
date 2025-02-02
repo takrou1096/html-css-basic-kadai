@@ -1,14 +1,13 @@
 #top {
   width: 800px;
-  width: 100%;
   background-color:  #dcc9f4;
-  margin: 20px;
-  margin: 0 auto;
+  margin: 20px auto;
+  text-align: center;
 }
 .topchild {
   width: 20%;
   background-color: #ffd9df;
-  display: flex;
+  display: inline-block;
 }
 
 #middle {
