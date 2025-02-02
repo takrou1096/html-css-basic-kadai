@@ -15,6 +15,7 @@
   height: 800px;
   margin: 20pt auto;
   background-color: #ffd9df;
+  position: absolute;
 }
 
 #middle-child01,#middle-child02,#middle-child03 {
