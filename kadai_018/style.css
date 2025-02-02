@@ -51,7 +51,7 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: relative;
+  position: absolute;
 }
 #bottom-child02 {
    top: 100px;
