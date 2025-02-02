@@ -6,3 +6,7 @@ h1::after {
   content: "■";
   color: pink;
 }
+p::first-letter {
+  font-size: 24px;
+  font-weight: bold;
+}
