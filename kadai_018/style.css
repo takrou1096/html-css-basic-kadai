@@ -13,7 +13,7 @@
 #middle {
   width: 800px;
   height: 800px;
-  margin: 20pt auto;
+  margin: 20px auto;
   background-color: #ffd9df;
   position:  relative;
 }
@@ -41,23 +41,24 @@
 }
 
 #bottom {
-  width: 400px;
+  width: 800px;
   height: 300px;
   background-color: #87ceed;
-  margin: 0 auto;
-  position:  relative;
+  margin: 20px auto;
 }
 #bottom-child01,#bottom-child02,#bottom-child03 {
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
+  position: relative;
+}
+#bottom-chiled01 {
+  left: 0px;
 }
 #bottom-child02 {
-  position:  absolute;
   left: 200px;
 }
 #bottom-chiled03 {
-  position: absolute;
   left: 400px;
 }
 
